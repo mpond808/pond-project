@@ -1,0 +1,23 @@
+h1 {color:darkred; text-align: center;}
+
+body {background-color: lightgreen;}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: lightcyan;
+
+li1 {display: inline;
+	float: left;
+}
+	
+
+li2 {
+	display: inline;
+	float: left;}
+
+li3 {
+	display: inline;
+	float: left; }
+
